@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => 'https://daengblog.netlify.app/',
+    'baseUrl' => '',
     'production' => false,
     'siteName' => 'Daeng Blog',
     'siteDescription' => 'Daeng Blog merupakan blog pribadi milik salah seorang mahasiswa nurul fikri yang berasal dari Makassar',
